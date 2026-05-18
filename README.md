@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=ApacheJMeter&logoColor=white" alt="JMeter" />
+  <!-- <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=ApacheJMeter&logoColor=white" alt="JMeter" /> -->
 </p>
 
 <br/>
@@ -42,7 +42,7 @@
 <h3>🎯 Current Learning Goals</h3>
 <p>I am actively expanding my knowledge by studying:</p>
 <p>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /> -->
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Katalon-41B883?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon" />
 </p>
